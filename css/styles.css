@@ -1,0 +1,284 @@
+:root{
+    --title-color: #2E2F42;
+    --text-color: #434455;
+}
+
+body {
+   font-family: "Roboto", sans-serif;
+   color: var(--text-color);
+   background-color: #ffffff;
+   
+}
+
+.list{
+   list-style: none;
+} 
+
+.link{
+   text-decoration: none;
+}
+
+.header {
+background-color: #ffffff;
+}
+.header-navigation {
+
+}
+.header-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.header-span {
+    color: var(--title-color);
+}
+
+.header-list {
+
+}
+.header-item {
+
+}
+
+.header-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.header-link:hover {
+    color: #404BBF;
+}
+.header-link:focus {
+    color: #404BBF;
+}
+
+.header-adress {
+    font-style: normal;
+}
+
+.header-contacts {
+    font-style: normal;
+}
+
+.header-contact {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
+    font-style: normal;
+}
+.header-contact:hover {
+    color: #404BBF;
+}
+.header-contact:focus {
+    color: #404BBF;
+}
+
+
+
+
+.solutions {
+    background-color: var(--title-color);
+}
+.solutions-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+
+.solutions-btn {
+    font-family: inherit;
+    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.solutions-btn:hover{
+    background-color: #404BBF;
+}
+.solutions-btn:focus{
+    background-color: #404BBF;
+}
+
+
+.principles {
+    background-color: #ffffff;
+}
+
+.principles-list {
+}
+
+.principles-item {
+}
+
+.principles-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.principles-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
+}
+
+
+.job {
+    background-color: #ffffff;
+}
+
+.job-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--title-color);
+}
+
+.job-list {
+}
+.list {
+}
+.job-item {
+}
+
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: var(--title-color);
+}
+
+.team-list {
+}
+.list {
+}
+.team-item {
+    background-color: #ffffff;
+}
+
+.team-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-color);
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
+}
+
+
+.footer {
+    background-color: var(--title-color);
+}
+
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer-link{
+    
+}
+.footer-span {
+    color: #F4F4FD;
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;;
+}
+
+
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+
+.portfolio-item {
+}
+
+.portfolio-btn {
+    font-family: inherit;
+    
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+    cursor: pointer;
+    background-color: #F4F4FD;
+}
+.portfolio-btn:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+.portfolio-btn:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.portfolio-list-photo {
+}
+.list {
+    list-style: none;
+}
+.portfolio-item-photo {
+}
+.portfolio-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-color);
+}
+
+.portfolio-text-photo {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--text-color);
+}

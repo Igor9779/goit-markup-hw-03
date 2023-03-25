@@ -38,7 +38,9 @@ body {
 } 
 
 .link{
-   text-decoration: none;
+    text-decoration: none;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header {

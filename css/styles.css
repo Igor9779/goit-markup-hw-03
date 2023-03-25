@@ -390,6 +390,7 @@ img {
 {
     margin-bottom: 0;
 }
+
 .portfolio-item-photo {
     flex-basis: calc(100% / 3 - 24px);
     margin-right: 24px;

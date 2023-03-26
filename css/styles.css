@@ -39,8 +39,6 @@ body {
 
 .link{
     text-decoration: none;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header {
@@ -416,7 +414,6 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-color);
-    margin-top: 32px;
 }
 
 .portfolio-text-photo {
